@@ -1,0 +1,13 @@
+{
+  "name": "ai-logo-generator-doubao",
+  "version": "1.0.0",
+  "description": "AI Logo Generator powered by Doubao (Volcano Engine)",
+  "main": "api/generate.js",
+  "type": "module", 
+  "scripts": {
+    "start": "vercel dev" 
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2" 
+  }
+}
